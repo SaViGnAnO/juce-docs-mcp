@@ -1,5 +1,5 @@
 {
-  "name": "juce-docs-mcp-server",
+  "name": "juce-docs-mcp",
   "version": "1.0.0",
   "description": "MCP server for JUCE Framework documentation",
   "type": "module",
